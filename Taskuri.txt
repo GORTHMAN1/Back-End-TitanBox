@@ -1,0 +1,5 @@
+
+(Andra04, Batman) -> Transformati orice tip de file si transferatil prin socket.
+(Daniela, Hei, Ava) -> Creati o program in Python care poate crea foldere si poate lipi file-uri in folderele respective.
+(Doru, Priza) -> Trimiteti prin socket username si parola, conectati servarul la baza de date si controlati daca exista ceva in baza de date care corespunde cu ce ati trimis.
+(Tudort) -> Fa ca servarul sa poata sa fii accesat de oriunde, nu doar in local.
