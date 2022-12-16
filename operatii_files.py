@@ -56,4 +56,3 @@ def deletedir(dir_path: str) -> None:
             os.remove(filename)
     os.rmdir(dir_path)
 
-createdir("Shiii","S:/TestFisier")
